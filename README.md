@@ -144,4 +144,4 @@ curl -i "http://localhost:8000/students?sort=id+DESC%3B+DROP+TABLE+students%3B--
 
 ## Tác giả
 
-Bài thực hành Lab05 — môn PHP Web, FPT University.
+Bài thực hành Lab05 — môn PHP Web.
