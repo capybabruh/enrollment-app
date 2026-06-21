@@ -1,0 +1,2 @@
+[init] log file ready
+[2026-06-21 04:57:00] ERROR: HealthController DB check failed | PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in D:\PHP\enrollment-app\app\Core\Database.php:23
